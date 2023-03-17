@@ -8,3 +8,7 @@ eta_motblack_Ip2 = [999 888 999 999];
 
 これだけ表示
 develop
+develop
+develop
+
+developで修正しmainにマージ
