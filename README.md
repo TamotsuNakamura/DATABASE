@@ -10,3 +10,5 @@ eta_motblack_Ip2 = [999 888 999 999];
 develop
 develop
 develop
+
+developで修正しmainにマージ
